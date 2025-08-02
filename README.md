@@ -1,19 +1,6 @@
 # Elevvo-ML-internship
 
 
-Thanks, Pola. Based on the `tasks.rar` archive and the **Machine Learning Tasks.pdf**, I’ll prepare a professional `README.md` you can put on GitHub to present the first 4 tasks you've completed. It will include:
-
-* Project structure
-* Description of each task
-* Key concepts and tools
-* How to run the code
-* Summary of results
-
----
-
-### 📘 `README.md` for Machine Learning Tasks
-
-```markdown
 # 🧠 Machine Learning Portfolio – Level 1 & Level 2 Tasks
 
 This repository showcases solutions to a series of machine learning tasks aimed at building core skills in regression, clustering, classification, and working with imbalanced data. Each task includes data preprocessing, model training, evaluation, and comparison of techniques where applicable.
