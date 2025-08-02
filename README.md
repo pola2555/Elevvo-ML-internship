@@ -48,7 +48,7 @@ This repository showcases solutions to a series of machine learning tasks aimed 
 
 ## 📂 Structure
 
-```
+
 
 tasks/
 ├── Task 1 - Student Score Prediction/
